@@ -1,0 +1,44 @@
+{ 
+  "$schema": "https://schemas.wp.org/wp/6.0/theme.json",
+  "version": 2,
+  "settings": {
+    "appearanceTools": true,
+    "layout": {
+      "contentSize": "920px",
+      "wideSize": "1280px"
+    },
+    "color": {
+			"palette": [
+				{
+					"slug": "base",
+					"name": "Base"
+				},
+				{
+					"slug": "contrast",
+					"name": "Contrast"
+				},
+				{
+					"slug": "primary",
+					"name": "Primary"
+				},
+				{
+					"slug": "secondary",
+					"name": "Secondary"
+				},
+				{
+					"slug": "tertiary",
+					"name": "Tertiary"
+				}
+			]
+    },
+    "typography": {
+      "fontFamilies": [
+        {
+          "fontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif",
+          "name": "System Font",
+          "slug": "system-font"
+        }
+      ]
+    }
+  }
+}
