@@ -1,6 +1,21 @@
 { 
   "$schema": "https://schemas.wp.org/wp/6.0/theme.json",
   "version": 2,
+  "patterns": [
+    "header-full-width"
+  ],
+  "templateParts": [
+    {
+      "area": "header",
+      "name": "header",
+      "title": "Header"
+    },
+    {
+      "area": "footer",
+      "name": "footer",
+      "title": "Footer"
+    }
+  ],
   "settings": {
     "appearanceTools": true,
     "layout": {
