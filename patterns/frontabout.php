@@ -17,9 +17,15 @@
 <h2 class="wp-block-heading has-text-align-right has-text-color has-link-color has-primary-font-family" style="color:#757575;margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:14px">Bakal Posisi Kandidat</h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"align":"right","style":{"typography":{"fontSize":"20px"}}} -->
-<p class="has-text-align-right" style="font-size:20px">This page try to provide visual responses from the reference composition that has been compiled, refers to creative direction. Designing from color composition, use of appropriate fonts, to a visual composition that will appear in final output.</p>
-<!-- /wp:paragraph --></div>
+<!-- wp:paragraph {"align":"right","style":{"typography":{"fontSize":"20px"},"spacing":{"margin":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|40"}}}} -->
+<p class="has-text-align-right" style="margin-top:var(--wp--preset--spacing--60);margin-bottom:var(--wp--preset--spacing--40);font-size:20px">This page try to provide visual responses from the reference composition that has been compiled, refers to creative direction. Designing from color composition, use of appropriate fonts, to a visual composition that will appear in final output.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"right"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"white","style":{"color":{"background":"#f16f70"},"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"border":{"width":"0px","style":"none"}},"borderColor":"base","className":"is-style-fill"} -->
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background has-link-color has-border-color has-base-border-color wp-element-button" style="border-style:none;border-width:0px;background-color:#f16f70">Go to Profile</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
 
@@ -30,3 +36,4 @@
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>
 <!-- /wp:group -->
+
