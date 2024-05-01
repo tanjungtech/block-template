@@ -59,21 +59,21 @@
 				{
 					"name": "Primary",
 					"slug": "primary",
-					"fontFamily": "'Gotham Rounded Medium', sans-serif",
+					"fontFamily": "'Gotham Rounded', sans-serif",
 					"fontFace": [
 						{
-							"fontFamily": "Gotham Rounded Medium",
+							"fontFamily": "Gotham Rounded Light",
 							"fontWeight": "300 800",
 							"fontStyle": "normal",
 							"fontStretch": "normal",
-							"src": [ "file:./assets/fonts/gotham-rounded-medium.otf" ]
+							"src": [ "file:./assets/fonts/gotham-rounded-light.otf" ]
             },
             {
-							"fontFamily": "Gotham Rounded Medium",
+							"fontFamily": "Gotham Rounded Light",
 							"fontWeight": "300 800",
 							"fontStyle": "italic",
 							"fontStretch": "normal",
-							"src": [ "file:./assets/fonts/gotham-rounded-medium-italic.otf" ]
+							"src": [ "file:./assets/fonts/gotham-rounded-light-italic.otf" ]
 						}
 					]
         },
