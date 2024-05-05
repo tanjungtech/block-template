@@ -7,7 +7,7 @@
 ?>
 
 <!-- wp:group {"style":{"dimensions":{"minHeight":"500px"},"spacing":{"padding":{"top":"var:preset|spacing|40"}}},"layout":{"type":"constrained","contentSize":"1300px"}} -->
-<div class="wp-block-group" style="min-height:500px;padding-top:var(--wp--preset--spacing--40)"><!-- wp:columns {"verticalAlignment":null,"style":{"spacing":{"margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|60"}}}} -->
+<div class="wp-block-group" style="min-height:500px;padding-top:var(--wp--preset--spacing--40)"><!-- wp:columns {"style":{"spacing":{"margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|60"}}}} -->
 <div class="wp-block-columns" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--60)"><!-- wp:column {"verticalAlignment":"center","width":"25%"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:25%"><!-- wp:image {"align":"center"} -->
 <figure class="wp-block-image aligncenter"><img alt=""/></figure>
@@ -21,12 +21,12 @@
 <!-- /wp:image -->
 
 <!-- wp:group {"layout":{"type":"constrained","contentSize":"800px","justifyContent":"left"}} -->
-<div class="wp-block-group"><!-- wp:heading {"style":{"typography":{"fontSize":"24px"}}} -->
-<h2 class="wp-block-heading" style="font-size:24px">Program A</h2>
+<div class="wp-block-group"><!-- wp:heading {"style":{"typography":{"fontSize":"36px"}}} -->
+<h2 class="wp-block-heading" style="font-size:36px">Program A</h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"style":{"typography":{"fontSize":"16px"}}} -->
-<p style="font-size:16px">Text Program Gagasan Text Program Gagasan Text Program Gagasan Text Program Gagasan Text Program Gagasan Text Program Gagasan Text Program Gagasan</p>
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"20px"}}} -->
+<p style="font-size:20px">Text Program Gagasan Text Program Gagasan Text Program Gagasan Text Program Gagasan Text Program Gagasan Text Program Gagasan Text Program Gagasan</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
@@ -37,12 +37,12 @@
 <!-- /wp:image -->
 
 <!-- wp:group {"layout":{"type":"constrained","contentSize":"800px","justifyContent":"left"}} -->
-<div class="wp-block-group"><!-- wp:heading {"style":{"typography":{"fontSize":"24px"}}} -->
-<h2 class="wp-block-heading" style="font-size:24px">Program B</h2>
+<div class="wp-block-group"><!-- wp:heading {"style":{"typography":{"fontSize":"36px"}}} -->
+<h2 class="wp-block-heading" style="font-size:36px">Program B</h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"style":{"typography":{"fontSize":"16px"}}} -->
-<p style="font-size:16px">Text Program Gagasan Text Program Gagasan Text Program Gagasan</p>
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"20px"}}} -->
+<p style="font-size:20px">Text Program Gagasan Text Program Gagasan Text Program Gagasan</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
@@ -53,12 +53,12 @@
 <!-- /wp:image -->
 
 <!-- wp:group {"layout":{"type":"constrained","contentSize":"800px","justifyContent":"left"}} -->
-<div class="wp-block-group"><!-- wp:heading {"style":{"typography":{"fontSize":"24px"}}} -->
-<h2 class="wp-block-heading" style="font-size:24px">Program C</h2>
+<div class="wp-block-group"><!-- wp:heading {"style":{"typography":{"fontSize":"36px"}}} -->
+<h2 class="wp-block-heading" style="font-size:36px">Program C</h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"style":{"typography":{"fontSize":"16px"}}} -->
-<p style="font-size:16px">Text Program Gagasan Text Program Gagasan Text Program Gagasan Text Program Gagasan Text Program Gagasan Text Program Gagasan Text Program Gagasan</p>
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"20px"}}} -->
+<p style="font-size:20px">Text Program Gagasan Text Program Gagasan Text Program Gagasan Text Program Gagasan Text Program Gagasan Text Program Gagasan Text Program Gagasan</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
@@ -69,12 +69,12 @@
 <!-- /wp:image -->
 
 <!-- wp:group {"layout":{"type":"constrained","contentSize":"800px","justifyContent":"left"}} -->
-<div class="wp-block-group"><!-- wp:heading {"style":{"typography":{"fontSize":"24px"}}} -->
-<h2 class="wp-block-heading" style="font-size:24px">Program D</h2>
+<div class="wp-block-group"><!-- wp:heading {"style":{"typography":{"fontSize":"36px"}}} -->
+<h2 class="wp-block-heading" style="font-size:36px">Program D</h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"style":{"typography":{"fontSize":"16px"}}} -->
-<p style="font-size:16px">Text Program Gagasan Text Program Gagasan Text Program Gagasan</p>
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"20px"}}} -->
+<p style="font-size:20px">Text Program Gagasan Text Program Gagasan Text Program Gagasan</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
